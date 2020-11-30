@@ -4,6 +4,6 @@ public class Teacher {
 	public void method(){
 		//测试
 		//编写代码
-		//编码代码
+		//编码代码1
 	}
 }

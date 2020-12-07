@@ -1,0 +1,6 @@
+#tomcat启动端口
+#项目名称
+server:  port: 8899  servlet:    context-path: /springboot_web 
+#如何查看默认值
+#开启调试日志打印
+debug: true
